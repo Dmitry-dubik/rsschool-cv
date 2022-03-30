@@ -4,8 +4,16 @@ _Dubovicky Dmitry_
 + dubovizckij.dmitry@gmail.com
 + duboviczkij.dmitrij@mail.ru
 ####Brief information
-
+I want to become a professional frontend developer so the quality of knowledge is very important for me
 ####Skills
++ html
++ ccs
++ js
++ c#
++ visual code
++ visual studio
++ git
++ github
 ####Code Examples
 
 ___A fragment of html code:___
@@ -62,14 +70,7 @@ ___A fragment of html code:___
 
 ```
 ####Work experience
-+ html
-+ ccs
-+ js
-+ c#
-+ визуальный код
-+ visual studio
-+ git
-+ github
+Writing laboratory, coursework while studying at the university
 ####Education
 Graduated from the Belarusian-Russian University in Mogilev in 2021. 
 ####English language
